@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [LinuxMint ISO Builder 探索筆記](https://samwhelp.github.io/note-about-linuxmint-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-iso-builder) |
+| [linuxmint-iso-builder-template](https://samwhelp.github.io/linuxmint-iso-builder-template/) | [GitHub](https://github.com/samwhelp/linuxmint-iso-builder-template) |
 
 
 
