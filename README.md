@@ -13,6 +13,7 @@
 ## 主題
 
 * [Respin](#respin)
+* [Live Account](#live-account)
 * [相關連結](#相關連結)
 
 
@@ -26,6 +27,32 @@
 | [linuxmint-iso-builder-remix-cinnamon](https://github.com/samwhelp/linuxmint-iso-builder-remix-cinnamon) | [linuxmint-iso-builder-respin-cinnamon](https://github.com/samwhelp/linuxmint-iso-builder-respin-cinnamon) |
 | [linuxmint-iso-builder-remix-mate](https://github.com/samwhelp/linuxmint-iso-builder-remix-mate) | [linuxmint-iso-builder-respin-mate](https://github.com/samwhelp/linuxmint-iso-builder-respin-mate) |
 | [linuxmint-iso-builder-remix-xfce](https://github.com/samwhelp/linuxmint-iso-builder-remix-xfce) | [linuxmint-iso-builder-respin-xfce](https://github.com/samwhelp/linuxmint-iso-builder-respin-xfce) |
+
+
+
+
+## Live Account
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `live` |
+| Password |        |
+
+> 目前沒有設定密碼
+
+
+若想要更改目前帳號的密碼，可以執行下面指令
+
+``` sh
+sudo passwd $(whoami)
+```
+
+
+若想要移除目前帳號的密碼，可以執行下面指令
+
+``` sh
+sudo passwd -d $(whoami)
+```
 
 
 
