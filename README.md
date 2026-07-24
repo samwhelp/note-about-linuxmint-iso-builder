@@ -27,6 +27,7 @@
 | [linuxmint-iso-builder-remix-cinnamon](https://github.com/samwhelp/linuxmint-iso-builder-remix-cinnamon) | [linuxmint-iso-builder-respin-cinnamon](https://github.com/samwhelp/linuxmint-iso-builder-respin-cinnamon) |
 | [linuxmint-iso-builder-remix-mate](https://github.com/samwhelp/linuxmint-iso-builder-remix-mate) | [linuxmint-iso-builder-respin-mate](https://github.com/samwhelp/linuxmint-iso-builder-respin-mate) |
 | [linuxmint-iso-builder-remix-xfce](https://github.com/samwhelp/linuxmint-iso-builder-remix-xfce) | [linuxmint-iso-builder-respin-xfce](https://github.com/samwhelp/linuxmint-iso-builder-respin-xfce) |
+| [linuxmint-iso-builder-remix-kde-plasma](https://github.com/samwhelp/linuxmint-iso-builder-remix-kde-plasma) | [linuxmint-iso-builder-respin-kde-plasma](https://github.com/samwhelp/linuxmint-iso-builder-respin-kde-plasma) |
 
 
 
