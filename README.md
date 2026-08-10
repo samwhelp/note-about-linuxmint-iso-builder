@@ -4,17 +4,29 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [LinuxMint ISO Builder 探索筆記](https://samwhelp.github.io/note-about-linuxmint-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-iso-builder) |
-| [linuxmint-iso-builder-template](https://samwhelp.github.io/linuxmint-iso-builder-template/) | [GitHub](https://github.com/samwhelp/linuxmint-iso-builder-template) |
+| [LinuxMint ISO Builder 探索筆記](https://samwhelp.github.io/note-about-linuxmint-live-create/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-live-create) |
+
 
 
 
 
 ## 主題
 
+* [ISO Builder Template](#iso-builder-template)
 * [Respin](#respin)
 * [Live Account](#live-account)
 * [相關連結](#相關連結)
+
+
+
+
+## ISO Builder Template
+
+| Link | GitHub |
+| ---- | ------ |
+| [linuxmint-live-custom-template](https://samwhelp.github.io/linuxmint-live-custom-template/) | [GitHub](https://github.com/samwhelp/linuxmint-live-custom-template) |
+| [linuxmint-live-create-template](https://samwhelp.github.io/linuxmint-live-create-template/) | [GitHub](https://github.com/samwhelp/linuxmint-live-create-template) |
+| [linuxmint-iso-builder-template](https://samwhelp.github.io/linuxmint-iso-builder-template/) | [GitHub](https://github.com/samwhelp/linuxmint-iso-builder-template) |
 
 
 
@@ -23,27 +35,27 @@
 
 | Remix | Respin |
 | ----- | ------ |
-| [linuxmint-iso-builder-remix-base](https://github.com/samwhelp/linuxmint-iso-builder-remix-base) | [linuxmint-iso-builder-respin-base](https://github.com/samwhelp/linuxmint-iso-builder-respin-base) |
-| [linuxmint-iso-builder-remix-cinnamon](https://github.com/samwhelp/linuxmint-iso-builder-remix-cinnamon) | [linuxmint-iso-builder-respin-cinnamon](https://github.com/samwhelp/linuxmint-iso-builder-respin-cinnamon) |
-| [linuxmint-iso-builder-remix-mate](https://github.com/samwhelp/linuxmint-iso-builder-remix-mate) | [linuxmint-iso-builder-respin-mate](https://github.com/samwhelp/linuxmint-iso-builder-respin-mate) |
-| [linuxmint-iso-builder-remix-xfce](https://github.com/samwhelp/linuxmint-iso-builder-remix-xfce) | [linuxmint-iso-builder-respin-xfce](https://github.com/samwhelp/linuxmint-iso-builder-respin-xfce) |
-| [linuxmint-iso-builder-remix-kde-plasma](https://github.com/samwhelp/linuxmint-iso-builder-remix-kde-plasma) | [linuxmint-iso-builder-respin-kde-plasma](https://github.com/samwhelp/linuxmint-iso-builder-respin-kde-plasma) |
+| [linuxmint-live-create-remix-base](https://github.com/samwhelp/linuxmint-live-create-remix-base) | [linuxmint-live-create-respin-base](https://github.com/samwhelp/linuxmint-live-create-respin-base) |
+| [linuxmint-live-create-remix-cinnamon](https://github.com/samwhelp/linuxmint-live-create-remix-cinnamon) | [linuxmint-live-create-respin-cinnamon](https://github.com/samwhelp/linuxmint-live-create-respin-cinnamon) |
+| [linuxmint-live-create-remix-mate](https://github.com/samwhelp/linuxmint-live-create-remix-mate) | [linuxmint-live-create-respin-mate](https://github.com/samwhelp/linuxmint-live-create-respin-mate) |
+| [linuxmint-live-create-remix-xfce](https://github.com/samwhelp/linuxmint-live-create-remix-xfce) | [linuxmint-live-create-respin-xfce](https://github.com/samwhelp/linuxmint-live-create-respin-xfce) |
+| [linuxmint-live-create-remix-kde-plasma](https://github.com/samwhelp/linuxmint-live-create-remix-kde-plasma) | [linuxmint-live-create-respin-kde-plasma](https://github.com/samwhelp/linuxmint-live-create-respin-kde-plasma) |
 
 
 
 
 | Remix | Respin |
 | ----- | ------ |
-| [linuxmint-iso-builder-remix-mate-with-compiz](https://github.com/samwhelp/linuxmint-iso-builder-remix-mate-with-compiz) | [linuxmint-iso-builder-respin-mate-with-compiz](https://github.com/samwhelp/linuxmint-iso-builder-respin-mate-with-compiz) |
+| [linuxmint-live-create-remix-mate-with-compiz](https://github.com/samwhelp/linuxmint-live-create-remix-mate-with-compiz) | [linuxmint-live-create-respin-mate-with-compiz](https://github.com/samwhelp/linuxmint-live-create-respin-mate-with-compiz) |
 
 
 
 
 | Remix | Respin |
 | ----- | ------ |
-| [linuxmint-iso-builder-remix-gnome-shell](https://github.com/samwhelp/linuxmint-iso-builder-remix-gnome-shell) | [linuxmint-iso-builder-respin-gnome-shell](https://github.com/samwhelp/linuxmint-iso-builder-respin-gnome-shell) |
-| [linuxmint-iso-builder-remix-gnome-shell-layout-wincity](https://github.com/samwhelp/linuxmint-iso-builder-remix-gnome-shell-layout-wincity) | [linuxmint-iso-builder-respin-gnome-shell-layout-wincity](https://github.com/samwhelp/linuxmint-iso-builder-respin-gnome-shell-layout-wincity) |
-| [linuxmint-iso-builder-remix-gnome-shell-layout-maccity](https://github.com/samwhelp/linuxmint-iso-builder-remix-gnome-shell-layout-maccity) | [linuxmint-iso-builder-respin-gnome-shell-layout-maccity](https://github.com/samwhelp/linuxmint-iso-builder-respin-gnome-shell-layout-maccity) |
+| [linuxmint-live-create-remix-gnome-shell](https://github.com/samwhelp/linuxmint-live-create-remix-gnome-shell) | [linuxmint-live-create-respin-gnome-shell](https://github.com/samwhelp/linuxmint-live-create-respin-gnome-shell) |
+| [linuxmint-live-create-remix-gnome-shell-layout-wincity](https://github.com/samwhelp/linuxmint-live-create-remix-gnome-shell-layout-wincity) | [linuxmint-live-create-respin-gnome-shell-layout-wincity](https://github.com/samwhelp/linuxmint-live-create-respin-gnome-shell-layout-wincity) |
+| [linuxmint-live-create-remix-gnome-shell-layout-maccity](https://github.com/samwhelp/linuxmint-live-create-remix-gnome-shell-layout-maccity) | [linuxmint-live-create-respin-gnome-shell-layout-maccity](https://github.com/samwhelp/linuxmint-live-create-respin-gnome-shell-layout-maccity) |
 
 
 
@@ -78,7 +90,7 @@ sudo passwd -d $(whoami)
 
 | Link | GitHub |
 | ---- | ------ |
-| [ISO Builder 探索筆記](https://samwhelp.github.io/note-about-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-iso-builder) |
+| [ISO Builder 探索筆記](https://samwhelp.github.io/note-about-live-create/) | [GitHub](https://github.com/samwhelp/note-about-live-create) |
 | [LinuxMint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
 | [Lmde 探索筆記](https://samwhelp.github.io/note-about-lmde/) | [GitHub](https://github.com/samwhelp/note-about-lmde) |
 
