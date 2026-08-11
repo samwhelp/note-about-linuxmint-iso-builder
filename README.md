@@ -4,7 +4,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [LinuxMint ISO Builder 探索筆記](https://samwhelp.github.io/note-about-linuxmint-live-create/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-live-create) |
+| [LinuxMint ISO Builder 探索筆記](https://samwhelp.github.io/note-about-linuxmint-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-iso-builder) |
 
 
 
@@ -90,7 +90,7 @@ sudo passwd -d $(whoami)
 
 | Link | GitHub |
 | ---- | ------ |
-| [ISO Builder 探索筆記](https://samwhelp.github.io/note-about-live-create/) | [GitHub](https://github.com/samwhelp/note-about-live-create) |
+| [ISO Builder 探索筆記](https://samwhelp.github.io/note-about-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-iso-builder) |
 | [LinuxMint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
 | [Lmde 探索筆記](https://samwhelp.github.io/note-about-lmde/) | [GitHub](https://github.com/samwhelp/note-about-lmde) |
 
